@@ -1,0 +1,7 @@
+#Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd "cd" færir hvar maður er vinna í (It changes the directory.)
+	cd ~
+	ls
+	pwd
+	mkdir
