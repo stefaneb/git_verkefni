@@ -1,7 +1,14 @@
 #Git spurningar og svör
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd "cd" færir hvar maður er vinna í (It changes the directory.)
-	cd ~
-	ls
-	pwd
-	mkdir
+	cd ~ "cd ~" fer beint á heimasvæði, þetta er notað til þess að maður þurfi ekki að skrifa slóðina í hvert skiptið eða þegar maður vill finna hvar heimasvæðið er.
+	ls "ls" sýnir lista af innihaldi slóðarinnar sem notandi er á.
+	pwd "pwd" sýnir full nafn slóðarinnar sem maður er að vinn á.
+	mkdir "mkdir" er stytting á "make directory" og býr til skrá á skráarkerfi.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone "git clone" afritar skrá frá ákveðnum stað á drifið okkar.
+	git log "git log" sýnir lista af öllum skipununm sem er búið að skuldbinda á slóðinni og það sýnir líka upplýsingar eins og notandanafn, dagsetningu og tíma.
+	git status "git status" sýnir manni stöðu af skrám og sýnir hvort einhverjar breytingar hafa verið gerðar síðan það var notað "git commit"
+	git diff "git diff" sýnir muninn á skrám
+	git checkout "git checkout" skiptir um slóðir / fer á aðra slóð
