@@ -17,3 +17,4 @@
 	a) git diff - sýnir muninn á working tree og index
 	b) git diff --staged - sýnir muninn á því sem er ekki komið inn á working skjalinu og því sem var commuitað
 	c) git diff commit1 commit2 - sýnir muninn á breytingunum sem voru gerðar í commit1 og commit2
+gi
