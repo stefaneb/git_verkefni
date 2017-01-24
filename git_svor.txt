@@ -10,5 +10,10 @@
 	git clone "git clone" afritar skrá frá ákveðnum stað á drifið okkar.
 	git log "git log" sýnir lista af öllum skipununm sem er búið að skuldbinda á slóðinni og það sýnir líka upplýsingar eins og notandanafn, dagsetningu og tíma.
 	git status "git status" sýnir manni stöðu af skrám og sýnir hvort einhverjar breytingar hafa verið gerðar síðan það var notað "git commit"
-	git diff "git diff" sýnir muninn á skrám
+	git diff "git diff" sýnir muninn á working tree og index
 	git checkout "git checkout" skiptir um slóðir / fer á aðra slóð
+
+	3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff - sýnir muninn á working tree og index
+	b) git diff --staged - sýnir muninn á því sem er ekki komið inn á working skjalinu og því sem var commuitað
+	c) git diff commit1 commit2 - sýnir muninn á breytingunum sem voru gerðar í commit1 og commit2
