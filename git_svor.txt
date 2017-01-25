@@ -1,4 +1,4 @@
-#Git spurningar og svör
+﻿  #Git spurningar og svör
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd "cd" færir hvar maður er vinna í (It changes the directory.)
 	cd ~ "cd ~" fer beint á heimasvæði, þetta er notað til þess að maður þurfi ekki að skrifa slóðina í hvert skiptið eða þegar maður vill finna hvar heimasvæðið er.
@@ -17,4 +17,24 @@
 	a) git diff - sýnir muninn á working tree og index
 	b) git diff --staged - sýnir muninn á því sem er ekki komið inn á working skjalinu og því sem var commuitað
 	c) git diff commit1 commit2 - sýnir muninn á breytingunum sem voru gerðar í commit1 og commit2
-gi
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+	Það sem er svo frábært við Git er að það geta margir unnið í einu verkefni á sama tíma og maður ræður hverju maður vill bæta við aðal strauminn (masterinn).
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Í hvert skipti sem þú gerir einhverja breytingu sem manneskjan sem skoðar commit, þyrfti að skilja.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	Working directory er slóðin sem maður er að vinna á, staging area er svæði sem maður prufar skipannir áður en maður gerir þær opinberlegar... Það væri hægt að kalla þetta testing area. Repository er staður sem maður geymir gögnin sín.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	
+
+9.	Hver fann upp GIT?
+	Linus Torvalds
+
+10.	Hvar er GIT helst notað?
+	Þegar það er verið að hanna forrit og "öpp" sem margir eru að vinna á.
