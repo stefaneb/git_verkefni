@@ -31,7 +31,7 @@
 	Working directory er slóðin sem maður er að vinna á, staging area er svæði sem maður prufar skipannir áður en maður gerir þær opinberlegar... Það væri hægt að kalla þetta testing area. Repository er staður sem maður geymir gögnin sín.
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
-	
+	Þegar fólk ætlar að gera hluti sem geta verið useful eða bara til að framleiða smokka, ég veit varla muninn.
 
 9.	Hver fann upp GIT?
 	Linus Torvalds
